@@ -161,32 +161,32 @@ textarea {
   font-family: "DIN Bold";
   font-style: normal;
   font-weight: normal;
-  src: url('./font/DINWeb-Bold.eot');
-  src: url('./font/DINWeb-Bold.eot?#iefix') format('embedded-opentype'), url('./font/DINWeb-Bold.woff') format('woff'), url('./font/DINComp-Bold.ttf') format('truetype');
+  src: url('../font/DINWeb-Bold.eot');
+  src: url('../font/DINWeb-Bold.eot?#iefix') format('embedded-opentype'), url('../font/DINWeb-Bold.woff') format('woff'), url('../font/DINComp-Bold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: "DIN Medium";
   font-style: normal;
   font-weight: normal;
-  src: url('./font/DINWeb-Medium.eot');
-  src: url("./font/DINWeb-Medium.eot?#iefix") format("embedded-opentype"), url("./font/DINWeb-Medium.woff") format("woff"), url('./font/DINComp-Medium.ttf') format('truetype');
+  src: url('../font/DINWeb-Medium.eot');
+  src: url("../font/DINWeb-Medium.eot?#iefix") format("embedded-opentype"), url("../font/DINWeb-Medium.woff") format("woff"), url('../font/DINComp-Medium.ttf') format('truetype');
 }
 
 @font-face {
   font-family: "DIN Regular";
   font-style: normal;
   font-weight: normal;
-  src: url('./font/DINWeb.eot');
-  src: url("./font/DINWeb.eot?#iefix") format("embedded-opentype"), url("./font/DINWeb.woff") format("woff"), url('./font/DINComp.ttf') format('truetype');
+  src: url('../font/DINWeb.eot');
+  src: url("../font/DINWeb.eot?#iefix") format("embedded-opentype"), url("../font/DINWeb.woff") format("woff"), url('../font/DINComp.ttf') format('truetype');
 }
 
 @font-face {
   font-family: "DIN Light";
   font-style: normal;
   font-weight: normal;
-  src: url('./font/DINWeb-Light.eot');
-  src: url("./font/DINWeb-Light.eot?#iefix") format("embedded-opentype"), url("./font/DINWeb-Light.woff") format("woff"), url('./font/DINComp-Light.ttf') format('truetype');
+  src: url('../font/DINWeb-Light.eot');
+  src: url("../font/DINWeb-Light.eot?#iefix") format("embedded-opentype"), url("../font/DINWeb-Light.woff") format("woff"), url('../font/DINComp-Light.ttf') format('truetype');
 }
 
 body {
@@ -3216,8 +3216,8 @@ table [class*=span],
   font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
-  src: url('/font/fontawesome-webfont.eot');
-  src: url('/font/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), url('/font/fontawesome-webfont.woff') format('woff'), url('/font/fontawesome-webfont.ttf') format('truetype'), url('/font/fontawesome-webfont.svg#FontAwesome') format('svg');
+  src: url('../font/fontawesome-webfont.eot');
+  src: url('../font/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), url('../font/fontawesome-webfont.woff') format('woff'), url('../font/fontawesome-webfont.ttf') format('truetype'), url('../font/fontawesome-webfont.svg#FontAwesome') format('svg');
 }
 
 /*  Font Awesome styles
