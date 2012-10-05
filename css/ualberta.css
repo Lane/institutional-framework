@@ -161,32 +161,32 @@ textarea {
   font-family: "DIN Bold";
   font-style: normal;
   font-weight: normal;
-  src: url('/font/DINWeb-Bold.eot');
-  src: url('/font/DINWeb-Bold.eot?#iefix') format('embedded-opentype'), url('/font/DINWeb-Bold.woff') format('woff'), url('/font/DINComp-Bold.ttf') format('truetype');
+  src: url('./font/DINWeb-Bold.eot');
+  src: url('./font/DINWeb-Bold.eot?#iefix') format('embedded-opentype'), url('./font/DINWeb-Bold.woff') format('woff'), url('./font/DINComp-Bold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: "DIN Medium";
   font-style: normal;
   font-weight: normal;
-  src: url('/font/DINWeb-Medium.eot');
-  src: url("/font/DINWeb-Medium.eot?#iefix") format("embedded-opentype"), url("/font/DINWeb-Medium.woff") format("woff"), url('/font/DINComp-Medium.ttf') format('truetype');
+  src: url('./font/DINWeb-Medium.eot');
+  src: url("./font/DINWeb-Medium.eot?#iefix") format("embedded-opentype"), url("./font/DINWeb-Medium.woff") format("woff"), url('./font/DINComp-Medium.ttf') format('truetype');
 }
 
 @font-face {
   font-family: "DIN Regular";
   font-style: normal;
   font-weight: normal;
-  src: url('/font/DINWeb.eot');
-  src: url("/font/DINWeb.eot?#iefix") format("embedded-opentype"), url("/font/DINWeb.woff") format("woff"), url('/font/DINComp.ttf') format('truetype');
+  src: url('./font/DINWeb.eot');
+  src: url("./font/DINWeb.eot?#iefix") format("embedded-opentype"), url("./font/DINWeb.woff") format("woff"), url('./font/DINComp.ttf') format('truetype');
 }
 
 @font-face {
   font-family: "DIN Light";
   font-style: normal;
   font-weight: normal;
-  src: url('/font/DINWeb-Light.eot');
-  src: url("/font/DINWeb-Light.eot?#iefix") format("embedded-opentype"), url("/font/DINWeb-Light.woff") format("woff"), url('/font/DINComp-Light.ttf') format('truetype');
+  src: url('./font/DINWeb-Light.eot');
+  src: url("./font/DINWeb-Light.eot?#iefix") format("embedded-opentype"), url("./font/DINWeb-Light.woff") format("woff"), url('./font/DINComp-Light.ttf') format('truetype');
 }
 
 body {
